@@ -1,4 +1,5 @@
 # **MedExtract**
+![doctor_stabiliy3](https://github.com/naoufal51/MedExtract/assets/15954923/a0dff490-5f8c-4ed2-9cee-fc62bac99b34)
 
 A medical named entity recognition (NER) project.
 
