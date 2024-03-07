@@ -15,10 +15,8 @@ Extract medical entities with high precision and recall, including:
 
 **Possible Datasets:**
 
-* i2b2 ([link to i2b2 dataset])
-* MIMIC-III ([Link to MIMIC-III])
-* [Other medical datasets you may use]
-* Briefly describe preprocessing and annotation, if applicable.
+* i2b2
+* MIMIC-III
 
 **Model Options**
 
