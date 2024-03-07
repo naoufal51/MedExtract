@@ -10,6 +10,7 @@ A medical named entity recognition (NER) project.
 **Goal:**
 
 * Extract medical entities with high precision and recall, including:
+
   * Diseases and symptoms
   * Medications 
   * Anatomical terms
