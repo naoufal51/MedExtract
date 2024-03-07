@@ -1,5 +1,3 @@
-I need to put it as a logo in :
-
 # **MedExtract**
 <img src="https://github.com/naoufal51/MedExtract/assets/15954923/a0dff490-5f8c-4ed2-9cee-fc62bac99b34" width="200" alt="doctor_stability3"> 
 
